@@ -7,3 +7,5 @@ There are two modules that create the case, topHalf() and bottomHalf(), which cr
 You'll need four small self-tapping screws to hold the case together, and a couple more to attach the sockets to the rear panel if you want.
 
 I've provided an extra hole in the rear for a headphone socket. Out of the box this kit is too high impedance to drive headphones, so I'll be experimenting with source followers to provide a low impedance output.
+
+STLs can be found on Thingiverse: https://www.thingiverse.com/thing:4553338
