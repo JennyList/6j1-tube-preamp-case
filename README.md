@@ -9,3 +9,5 @@ You'll need four small self-tapping screws to hold the case together, and a coup
 I've provided an extra hole in the rear for a headphone socket. Out of the box this kit is too high impedance to drive headphones, so I'll be experimenting with source followers to provide a low impedance output.
 
 STLs can be found on Thingiverse: https://www.thingiverse.com/thing:4553338
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B41FD5UE)
